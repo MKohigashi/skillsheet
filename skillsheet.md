@@ -52,7 +52,8 @@
 - 2024
   - ネットワーク機器管理システム更改（Ruby 1.9 → 3.1 , Ruby on Rails 3.2　→ 6.2）
   - 某メガバンク向けインターネットバンキングのシステム更改
-- 2023
+- 2020~2023
   - AWS EKS基盤構築
   - AWS EKS、RDSバージョンアップ検証
-  - CiscoルータにBGP、VRRPを設定＆TAT測定
+  - CiscoルータにVLAN、BGP、VRRPの設定
+  - AWSのマルチAZ化による次期vRANシステムの冗長化及びAZ間のTAT測定
